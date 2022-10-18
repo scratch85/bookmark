@@ -42,3 +42,7 @@
 ### Mountaineering
 
 * [<img src="https://www.powderguide.com/_LAYOUT/work/resources/img/icons/favicon-16x16.png" width="16" height="16" /> Bergwissen | Spaltenbergung (powderguide.com)](https://www.powderguide.com/magazin/safety-themen/artikel/bergwissen-spaltenbergung-teil-ii-material-knotenkunde.html) - Bergwissen | Spaltenbergung Teil II – Material- & Knotenkunde
+
+### Weather
+
+* [<img src="https://www.alpenverein.de/chameleon/public/ad8b54d5-311a-f3b9-c7b0-534414978f08/favicon_18441.ico" width="16" height="16" /> DAV Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Alpen)
