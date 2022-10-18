@@ -2,6 +2,7 @@
 
 ## Games
 
+* [<img src="https://mod.diablo.noktis.pl/opg-d3.jpg" alt="Diablo 1 HD Mod" width="16" height="16" /> Diablo 1 HD Mod](https://mod.diablo.noktis.pl/)
 * [<img src="https://dominion.games/favicon.ico" alt="Dominion Online" width="16" height="16" /> Dominion Online](https://dominion.games)
 
 ## Money
