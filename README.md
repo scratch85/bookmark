@@ -23,6 +23,10 @@
 * [<img src="https://www.outdoorseiten.net/vb5/favicon.ico" width="16" height="16" /> outdoorseiten.net](https://www.outdoorseiten.net/)
 * [<img src="https://www.ultraleicht-trekking.com/forum/uploads/monthly_2016_02/ultraleicht-trekking.ico.dbe08bef0ade0c1f7e7301302e996887.ico" width="16" height="16" /> ultraleicht-trekking.com](https://www.ultraleicht-trekking.com/)
 
+### Maps
+
+* [<img src="https://ut.no/favicon.ico" width="16" height="16" /> ut.no](https://ut.no/kart) - Marked routes, suggested tours, cabins and destinations all over norway
+
 ### Mountaineering
 
 * [<img src="https://www.powderguide.com/_LAYOUT/work/resources/img/icons/favicon-16x16.png" width="16" height="16" /> Bergwissen | Spaltenbergung (powderguide.com)](https://www.powderguide.com/magazin/safety-themen/artikel/bergwissen-spaltenbergung-teil-ii-material-knotenkunde.html) - Bergwissen | Spaltenbergung Teil II – Material- & Knotenkunde
