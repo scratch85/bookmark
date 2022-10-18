@@ -18,6 +18,7 @@
 * [<img src="https://www.elster.de/eportal/img/fav/eop/favicon.ico" width="16" height="16" /> Elster](https://www.elster.de) - Elektronische Steuererklärung
 * [<img src="https://www.justetf.com/favicon.ico" width="16" height="16" /> justETF](https://www.justetf.com/) - ETF search
 * [<img src="https://www.finanzwesir.com/_themes/finanzwesir/img/favicon.ico" width="16" height="16" /> finanzwesir.com](https://www.finanzwesir.com/) - Finanzblog für Selbstentscheider
+* [<img src="https://frugalisten.de/wp-content/uploads/2020/12/favicon.png" width="16" height="16" /> frugalisten.de](https://frugalisten.de/steuern-kapitalertraege-privatier-optimieren/)
 
 ## Outdoor
 
