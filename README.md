@@ -1,5 +1,11 @@
 # Bookmarks
 
+## Devices
+
+* [Diskstation](https://diskstation.fritz.box:5000)
+* [Fritzbox](https://fritz.box)
+* [<img src="https://secure.hosting.de/assets/sites/hosting/favicon-16x16.png" width="16" height="16" /> hosting.de](https://secure.hosting.de/login)
+
 ## Games
 
 * [<img src="https://mod.diablo.noktis.pl/opg-d3.jpg" width="16" height="16" /> Diablo 1 HD Mod](https://mod.diablo.noktis.pl/)
