@@ -20,3 +20,4 @@
 ## Outdoor
 
 * [<img src="https://lighterpack.com/favicon.png" width="16" height="16" /> LighterPack](https://lighterpack.com) - LighterPack helps you track the gear you bring on adventures.
+* [<img src="https://www.outdoorseiten.net/vb5/favicon.ico" width="16" height="16" /> outdoorseiten.net](https://www.outdoorseiten.net/)
