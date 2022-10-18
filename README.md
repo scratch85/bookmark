@@ -16,6 +16,7 @@
 ## Money
 
 * [<img src="https://www.elster.de/eportal/img/fav/eop/favicon.ico" width="16" height="16" /> Elster](https://www.elster.de) - Elektronische Steuererklärung
+* [<img src="https://www.justetf.com/favicon.ico" width="16" height="16" /> justETF](https://www.justetf.com/) - ETF search
 
 ## Outdoor
 
