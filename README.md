@@ -26,6 +26,7 @@
 ### Maps
 
 * [<img src="https://ut.no/favicon.ico" width="16" height="16" /> ut.no](https://ut.no/kart) - Marked routes, suggested tours, cabins and destinations all over norway
+* [<img src="https://map.geo.admin.ch/favicon.ico" width="16" height="16" /> map.geo.admin.ch](https://map.geo.admin.ch) - Swiss Topo
 
 ### Mountaineering
 
