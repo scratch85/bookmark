@@ -46,3 +46,5 @@
 ### Weather
 
 * [<img src="https://www.alpenverein.de/chameleon/public/ad8b54d5-311a-f3b9-c7b0-534414978f08/favicon_18441.ico" width="16" height="16" /> DAV Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Alpen)
+* [<img src="https://www.mountain-forecast.com/favicon.ico" width="16" height="16" /> mountain-forecast.com](https://www.mountain-forecast.com/) - Dedicated mountain weather forecasts for more than 11300 (and growing) major summits for climbers and mountaineers, provided for up to 8 different elevations.
+* [<img src="https://www.meteoexploration.com/static/forecasts/images/favicon.png" width="16" height="16" /> meteoexploration.com](https://www.meteoexploration.com/en/forecasts/) - weather forecasts for extreme and remote environments.
