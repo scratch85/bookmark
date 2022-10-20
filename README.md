@@ -13,6 +13,7 @@
 
 ## Games
 
+* [<img src="https://cf.geekdo-static.com/icons/favicon2.ico" width="16" height="16" /> boardgamegeek](https://boardgamegeek.com/user/scratch85)
 * [<img src="https://mod.diablo.noktis.pl/opg-d3.jpg" width="16" height="16" /> Diablo 1 HD Mod](https://mod.diablo.noktis.pl/)
 * [<img src="https://dominion.games/favicon.ico" width="16" height="16" /> Dominion Online](https://dominion.games)
 * [Open Source Game Clones](https://osgameclones.com/)
