@@ -38,6 +38,14 @@
 * [<img src="https://www.outdoorseiten.net/vb5/favicon.ico" width="16" height="16" /> outdoorseiten.net](https://www.outdoorseiten.net/)
 * [<img src="https://www.ultraleicht-trekking.com/forum/uploads/monthly_2016_02/ultraleicht-trekking.ico.dbe08bef0ade0c1f7e7301302e996887.ico" width="16" height="16" /> ultraleicht-trekking.com](https://www.ultraleicht-trekking.com/)
 
+### Camper
+
+* [<img src="https://www.crosli.de/favicon.png" width="16" height="16" /> crosli.de](https://www.crosli.de)
+* [<img src="https://www.ford-forum.de/favicon.ico" width="16" height="16" /> ford-forum.de](https://www.ford-forum.de/)
+* [<img src="https://www.reimo.com/media/reimo-com/media/unknown/d9/0c/f4/favicon.ico" width="16" height="16" /> Reimo Ausbauratgeber](https://www.reimo.com/ausbauratgeber)
+* [<img src="https://cdn-5f7884d3c1ac190fbc5749c6.closte.com/wp-content/uploads/2015/01/cs-120.png" width="16" height="16" /> 12v Kabelquerschnitt (camperstyle.de)](https://camperstyle.de/wohnmobil-12v-kabelquerschnitt/)
+* [<img src="https://www.offgridtec.com/media/90/6f/08/1649088933/Gruppe%20maskieren%2035.png" width="16" height="16" /> offgridtec.com](https://www.offgridtec.com/)
+
 ### Maps
 
 * [<img src="https://wiki.openstreetmap.org/favicon.ico" width="16" height="16" /> Cruiser](https://wiki.openstreetmap.org/wiki/Cruiser) - Cruiser is a map and navigation platform for Android and Desktop.
