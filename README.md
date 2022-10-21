@@ -49,6 +49,11 @@
 
 * [<img src="https://www.powderguide.com/_LAYOUT/work/resources/img/icons/favicon-16x16.png" width="16" height="16" /> Bergwissen | Spaltenbergung (powderguide.com)](https://www.powderguide.com/magazin/safety-themen/artikel/bergwissen-spaltenbergung-teil-ii-material-knotenkunde.html) - Bergwissen | Spaltenbergung Teil II – Material- & Knotenkunde
 
+### Packrafting
+
+* [<img src="https://www.kanu-bayern.de/theme/favicon.ico" width="16" height="16" /> kanu-bayern.de](https://www.kanu-bayern.de/Umwelt/Gewaesser-Info/Befahrungsregeln/) - Der Deutsche Kanu-Verband e.V. informiert hier über ihm bekannte Befahrungsregelungen auf Gewässern im In- und Ausland.
+* [<img src="https://www.toros-outdoors.de/wp-content/uploads/2020/06/1000TOROSoutdoors2019_logo_transparent-1-e1591183089287.png" width="16" height="16" /> Toros Outdoors](https://www.toros-outdoors.de)
+
 ### Weather
 
 * [<img src="https://www.meteoblue.com/favicon.ico" width="16" height="16" /> Großhadern (meteoblue.com)](https://www.meteoblue.com/de/wetter/woche/gro%c3%9fhadern_deutschland_2915562)
