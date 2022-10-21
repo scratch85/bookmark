@@ -45,6 +45,7 @@
 * [<img src="https://www.reimo.com/media/reimo-com/media/unknown/d9/0c/f4/favicon.ico" width="16" height="16" /> Reimo Ausbauratgeber](https://www.reimo.com/ausbauratgeber)
 * [<img src="https://cdn-5f7884d3c1ac190fbc5749c6.closte.com/wp-content/uploads/2015/01/cs-120.png" width="16" height="16" /> 12v Kabelquerschnitt (camperstyle.de)](https://camperstyle.de/wohnmobil-12v-kabelquerschnitt/)
 * [<img src="https://www.offgridtec.com/media/90/6f/08/1649088933/Gruppe%20maskieren%2035.png" width="16" height="16" /> offgridtec.com](https://www.offgridtec.com/)
+* [<img src="https://aws1.discourse-cdn.com/arduino/optimized/3X/c/c/cc4b0921af3d89006e843364a2b18989ad72f83e_2_32x32.png" width="16" height="16" /> forum.arduino.cc](https://forum.arduino.cc/t/led-einbauleuchte-dimmen-ideen/521813) - LED Einbauleuchte dimmen, Ideen?!
 
 ### Maps
 
