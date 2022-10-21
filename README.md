@@ -69,6 +69,12 @@
 * [<img src="https://www.mountain-forecast.com/favicon.ico" width="16" height="16" /> mountain-forecast.com](https://www.mountain-forecast.com/) - Dedicated mountain weather forecasts for more than 11300 (and growing) major summits for climbers and mountaineers, provided for up to 8 different elevations.
 * [<img src="https://www.meteoexploration.com/static/forecasts/images/favicon.png" width="16" height="16" /> meteoexploration.com](https://www.meteoexploration.com/en/forecasts/) - weather forecasts for extreme and remote environments.
 
+## Software Development
+
+* [<img src="https://easystarjs.com/images/favicon.ico" width="16" height="16" /> easystarjs.com](https://easystarjs.com/) - JavaScript Pathfinding A*
+* [<img src="https://www.dynetisgames.com/wp-content/uploads/2017/03/cropped-logo-192x192.png" width="16" height="16" /> easystarjs and Phaser (dynetisgames.com)](https://www.dynetisgames.com/2018/03/06/pathfinding-easystar-phaser-3/)
+* [<img src="https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png" width="16" height="16" /> Modular Game Worlds in Phaser 3 (medium.com)](https://medium.com/@michaelwesthadley/modular-game-worlds-in-phaser-3-tilemaps-1-958fc7e6bbd6)
+
 ## Tech
 
 * [<img src="https://www.heise.de/icons/ho/favicon/favicon-32x32.png" width="16" height="16" /> heise](https://www.heise.de/)
