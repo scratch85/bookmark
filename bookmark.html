@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        * {
+            font-family: Consolas, monaco, monospace;
+        }
+
+        h1 {
+            font-size: 20px;
+            margin: 0px;
+        }
+
+        a {
+            color: black;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: black;
+            text-decoration: underline;
+        }
+
+        img.icon {
+            width: 16px;
+            height: 16px;
+        }
+
+        div.container {
+            border: 0px solid red;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            padding: 10px;
+        }
+
+        div.item {
+            border: 0px solid black;
+            margin: 0px;
+            padding: 5px;
+            flex-grow: 1;
+        }
+
+        ul {
+            list-style-type: none;
+            padding-left: 20px;
+        }
+
+        li:not(:last-child) {
+            margin-bottom: 3px;
+        }
+
+        /* Color Scheme: PETER RIVER https://htmlcolorcodes.com/color-chart/flat-design-color-chart/ */
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div id="devices" class="item" style="background-color: #EBF5FB;">
+            <h1>Devices</h1>
+            <ul>
+                <li>
+                    <a href="https://diskstation.fritz.box:5000" target="_blank">Diskstation</a>
+                </li>
+                <li>
+                    <a href="https://fritz.box" target="_blank">Fritzbox</a>
+                </li>
+                <li>
+                    <a href="https://secure.hosting.de/login" target="_blank"><img src="https://secure.hosting.de/assets/sites/hosting/favicon-16x16.png" class="icon" /> hosting.de</a>
+                </li>
+            </ul>
+        </div>
+
+        <div id="food" class="item" style="background-color: #85C1E9;">
+            <h1>Food</h1>
+            <ul>
+                <li>
+                    <a href="https://greenelephant.bio" target="_blank">Green Elephant</a>
+                </li>
+                <li>
+                    <a href="https://www.zuckerjagdwurst.com/de" target="_blank"><img src="https://www.zuckerjagdwurst.com/favicon-32x32.png" class="icon" /> Zucker & Jagdwurst</a>
+                </li>
+            </ul>
+        </div>
+
+        <div id="games" class="item" style="background-color: #D6EAF8;">
+            <h1>Games</h1>
+        </div>
+
+        <div id="a" class="item" style="background-color: #5DADE2;">
+            <h1>a</h1>
+            <ul>
+            </ul>
+        </div>
+
+        <div id="b" class="item" style="background-color: #AED6F1;">
+            <h1>b</h1>
+            <ul>
+            </ul>
+        </div>
+
+    </div>
+</body>
+
+</html>
