@@ -7,5 +7,6 @@
 - [Go](https://go.dev/dl/)
 - [GOG Galaxy](https://www.gog.com/galaxy)
 - [Greenshot](https://getgreenshot.org/downloads/)
+- [MongoDB](https://www.mongodb.com/try/download/community)
 - [OneDrive](https://www.microsoft.com/de-de/microsoft-365/onedrive/download)
 - [Visual Studio Code](https://code.visualstudio.com/download)
