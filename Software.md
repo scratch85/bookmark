@@ -5,6 +5,7 @@
 - [Gimp](https://www.gimp.org/downloads/)
 - [Git](https://git-scm.com/downloads)
 - [Go](https://go.dev/dl/)
+- [GOG Galaxy](https://www.gog.com/galaxy)
 - [Greenshot](https://getgreenshot.org/downloads/)
 - [OneDrive](https://www.microsoft.com/de-de/microsoft-365/onedrive/download)
 - [Visual Studio Code](https://code.visualstudio.com/download)
