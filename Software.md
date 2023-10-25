@@ -13,5 +13,5 @@
   - Extension: [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go)
   - Extension: [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
   - Extension: [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-  - Extension: [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+  - Extension: [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
   - Extension: [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
