@@ -30,9 +30,15 @@
 
 Games and Game Clients.
 
-- [EA app (Origin)](https://www.ea.com/ea-app)
+- [iscord](https://www.ea.com/ea-app)
 - [GOG Galaxy](https://www.gog.com/galaxy)
 - [Steam](https://store.steampowered.com)
 - [Ubisoft Connect](https://apps.microsoft.com/detail/xpdp2qw12dfsfk)*
+
+## Social
+
+- [Discord](https://apps.microsoft.com/detail/xpdc2rh70k22mn)*
+- [Signal](https://signal.org/de/download/windows/)
+- [Teams](https://apps.microsoft.com/detail/xp8bt8dw290mpq)*
 
 \* Microsoft Store
